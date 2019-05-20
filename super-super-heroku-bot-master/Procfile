@@ -1,1 +1,1 @@
-worker: node DDBans.js
+worker: node bot.js
